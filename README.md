@@ -1,4 +1,4 @@
-# Hi, I'm Subhajit Maji! 👋
+# Hi, I'm Subhajit! 👋
 
 ### 🚀 Cloud Data Engineer | Open-Source Enthusiast | Innovator
 
